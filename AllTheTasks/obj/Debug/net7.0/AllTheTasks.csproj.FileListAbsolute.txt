@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/bin/Debug/net7.0/AllTheTasks
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/bin/Debug/net7.0/AllTheTasks.deps.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/bin/Debug/net7.0/AllTheTasks.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/bin/Debug/net7.0/AllTheTasks.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/bin/Debug/net7.0/AllTheTasks.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/refint/AllTheTasks.dll
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.pdb
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/AllTheTasks.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/C#_Лекции и семинары/Homework_3/AllTheTasks/obj/Debug/net7.0/ref/AllTheTasks.dll
